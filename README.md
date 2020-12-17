@@ -9,4 +9,6 @@ police stations, hospitals, critical infustructure none of them can realy take d
 thats why if you walk into a police station they still use win7, so this could be a solution but im not sure\n
 and it could easily do more harm than good if the wrong person finds it\n
 if i were to put this on public it would need another day or 2 of debugging,
-its not very reliable but it works most of the time
+its not very reliable but it works most of the time.
+also dont take this as more than it is,
+5 hours of my life + 2 monster energy drinks = shity amature python script
