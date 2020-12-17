@@ -8,3 +8,5 @@ and if you dont have manage engine and you are in a hospital or large network it
 police stations, hospitals, critical infustructure none of them can realy take downtime to install patches, sometimes they can but rarely\n
 thats why if you walk into a police station they still use win7, so this could be a solution but im not sure\n
 and it could easily do more harm than good if the wrong person finds it\n
+if i were to put this on public it would need another day or 2 of debugging,
+its not very reliable but it works most of the time
