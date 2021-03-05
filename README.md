@@ -6,3 +6,5 @@ if i were to put this on public it would need another day or 2 of debugging,
 its not very reliable but it works most of the time.
 also dont take this as more than it is,
 5 hours of my life + 2 monster energy drinks = python script
+=UPDATE=
+main.exe is tested and works
